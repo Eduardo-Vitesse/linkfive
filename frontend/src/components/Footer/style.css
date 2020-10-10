@@ -1,0 +1,14 @@
+footer {
+    width: 100%;
+    height: 4em;
+    background-image: linear-gradient(to bottom right, #174D93, #06A9EC);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer span, a {
+    color: #FFFFFF;
+    font-size: 18px;
+    text-decoration: none;
+}
